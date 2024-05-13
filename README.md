@@ -1,5 +1,5 @@
 # SIM SU MIN
-![Sim4110's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+![Sim4110's GitHub stats](https://github-readme-stats.vercel.app/api?username=sim4110&show_icons=true&theme=highcontrast)
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=simson1023)](https://solved.ac/simson1023)
 # Skills
