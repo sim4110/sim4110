@@ -1,5 +1,5 @@
 # SIM SU-MIN
-ChungBuk National University
+ChungBuk National University - Majoring in Software(Computer Science)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sim4110&layout=compact)
 [![Solved.ac
