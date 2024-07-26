@@ -2,23 +2,20 @@
 ChungBuk National University - Majoring in Software(Computer Science)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sim4110&layout=compact)
-[![Solved.ac
-simson1023](http://mazassumnida.wtf/api/generate_badge?boj=simson1023)](https://solved.ac/simson1023)
+
 
 
 # Skills
 ### Languages & Platforms
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white)
-![Three.js](https://img.shields.io/badge/threedotjs-000000.svg?&style=for-the-badge&logo=threedotjs&logoColor=white)
+
 
 ### Studying
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
