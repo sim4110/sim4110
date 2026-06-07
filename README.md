@@ -14,8 +14,6 @@
 
 **Tools**
 
-![Ghidra](https://img.shields.io/badge/Ghidra-B22222?style=flat-square&logoColor=white)
-![WinDbg](https://img.shields.io/badge/WinDbg-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=Linux&logoColor=FCC624)
 
@@ -27,11 +25,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 
-
 ## Interests
-- Malware Analysis
-- Reverse Engineering
 
+- Cyber Security
+- Threat Analysis
+- Linux Server
 
 ---
 ## 📬 Contact
